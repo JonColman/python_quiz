@@ -1,4 +1,4 @@
-# python_quiz
+# Jon's Python Quiz
 Quiz built for Day 17 of the 100 Days of Python Course
 
 ## Dependencies
